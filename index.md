@@ -13,7 +13,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-Header 1
+#Header 1
 ## Header 2
 ### Header 3
 
@@ -33,13 +33,13 @@ I'm Tejas Kadadi.
 
 ### My favorite things about CS193:
 
--The instructors are lowkey goated
+- The instructors are lowkey goated
 
--I think this class will be easy
+- I think this class will be easy
 
--GPA Boost?
+- GPA Boost?
 
--It's super far from my dorm
+- It's super far from my dorm
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
