@@ -29,6 +29,16 @@ Header 1
 ###What's gooddddd
 I'm Tejas Kadadi.
 
+### My favorite things about CS193:
+
+-The instructors are lowkey goated
+
+-I think this class will be easy
+
+-GPA Boost?
+
+-It's super far from my dorm
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
